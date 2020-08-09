@@ -11,8 +11,6 @@ How to reach me:
 <p>Instagram: @marcelaleitec</p>
 <p>email: marcelaleitec@hotmail.com</p>
 
-<img width="auto" src="https://github.com/marcelaleitec/marcelaleitec/blob/master/banner.png">
-
 <!--
 **marcelaleitec/marcelaleitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
