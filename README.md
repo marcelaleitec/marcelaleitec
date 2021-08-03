@@ -9,7 +9,7 @@ How to reach me:
 <p>LinkedIn: https://www.linkedin.com/in/marcelaleitec/</p>
 <p>Twitter: @marcelaleitec</p>
 <p>Instagram: @marcelaleitec</p>
-<p>email: marcelaleitec@hotmail.com</p>
+<p>email: marcelaleite1303@gmail.com</p>
 
 <!--
 **marcelaleitec/marcelaleitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
