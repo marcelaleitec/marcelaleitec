@@ -7,7 +7,6 @@ I am still studying the paths I can take.
 
 How to reach me: 
 <p>LinkedIn: https://www.linkedin.com/in/marcelaleitec/</p>
-<p>Twitter: @marcelaleitec</p>
 <p>Instagram: @marcelaleitec</p>
 <p>email: marcelaleite1303@gmail.com</p>
 
