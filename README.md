@@ -1,9 +1,8 @@
 Hi there 👋
 
-I'm simple as it should be. Rock lover :heart_eyes:, art lover :heart_eyes:, design lover :heart_eyes:, woman, mother, daughter, sister, wife, just myself.
+I'm simple as it should be. Rock lover 🎸, art lover 🖌🎨, design lover 🖌️, tech lover 💻.
 
 I'm diving into the universe of programming and I intend to make a career out of it. :smirk:
-I am still studying the paths I can take.
 
 How to reach me: 
 <p>LinkedIn: https://www.linkedin.com/in/marcelaleitec/</p>
